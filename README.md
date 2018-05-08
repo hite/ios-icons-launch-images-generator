@@ -1,3 +1,7 @@
+## Update in my fork.
+
+Only support portrait and mordern iPhone 
+
 ## What is?
 Scripts to automatically generate iOS icons and launch images in the correct sizes. Also contains optimal asset catalogs with reused images for identical sizes.
 
